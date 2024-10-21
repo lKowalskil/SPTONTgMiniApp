@@ -1,0 +1,74 @@
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+
+# React Build
+build/
+dist/
+
+# Tailwind CSS
+/.tailwind
+/.next
+/.out
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+*.env
+*.db
+*.sqlite3
+
+# Flask
+instance/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+.eggs/
+.env
+
+# Docker
+docker-compose.override.yml
+Dockerfile.local
+.dockerignore
+/.docker
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# MacOS
+.DS_Store
+
+# Linux
+*~
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# Coverage
+htmlcov/
+.coverage
+.coverage.*
+*.cover
+
+# Logs
+*.log
+
+# Other
+*.tgz
+*.zip
+*.tar.gz
+*.tar
+
+# OS generated files
+Thumbs.db
+.venv

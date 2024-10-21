@@ -1,0 +1,14 @@
+Flask
+Flask-Cors
+Flask-JWT-Extended
+PyJWT
+pymongo
+python-dotenv
+python-telegram-bot
+requests
+tenacity
+urllib3
+uvicorn
+Werkzeug
+gunicorn
+supervisor
