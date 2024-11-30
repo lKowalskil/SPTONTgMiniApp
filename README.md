@@ -1,3 +1,4 @@
+Note: you can find it hosted here(while I have electricity at home ;) )- https://t.me/spaceton_tg_bot
 # SpaceTON - Space Colony Builder Game 🚀
 
 Welcome to **SpaceTON**, a space colony builder game where players tap to recruit colonists, grow their colony, and earn SpaceTON (STON) tokens. This project was created as an educational exercise to explore the development of a Telegram-based game that combines resource management and cryptocurrency mechanics.
