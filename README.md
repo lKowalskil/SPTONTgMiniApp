@@ -46,6 +46,7 @@ This project is a **work-in-progress** and primarily serves as a **learning tool
 ## 💻 Tech Stack
 
 - **Telegram Bot API**: Game interactions are managed through Telegram.
+- **Python/Flask**
 - **JavaScript / Node.js**: Backend development for game logic.
 - **HTML/CSS**: Basic front-end interface for web-based elements.
 - **TON Blockchain**: Token integration for the SpaceTON (STON) economy.
@@ -55,12 +56,6 @@ This project is a **work-in-progress** and primarily serves as a **learning tool
 ## 🤝 Contributions
 
 Since this project is for educational purposes, contributions are not required. However, if you want to share feedback or ideas, feel free to open an issue or fork the project.
-
----
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
